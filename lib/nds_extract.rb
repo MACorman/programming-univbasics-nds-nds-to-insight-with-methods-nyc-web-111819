@@ -5,7 +5,7 @@ require 'directors_database'
 # The return value should be like:
 #
 # { directorOne => allTheMoneyTheyMade, ... }
-
+submi
 def directors_totals(nds)
   result = {}
   director_index = 0
